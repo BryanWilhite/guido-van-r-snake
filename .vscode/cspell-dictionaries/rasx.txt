@@ -6,6 +6,8 @@ jupyter
 linq
 mathematica
 namespaces
+numpy
+pyplot
 rasx
 repo
 rossum
