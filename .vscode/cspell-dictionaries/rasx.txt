@@ -1,5 +1,7 @@
+chocolatey
 epub
 guido
+ipynb
 jupyter
 linq
 mathematica
