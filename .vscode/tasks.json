@@ -1,5 +1,18 @@
 {
     "version": "2.0.0",
     "tasks": [
+        {
+            "command": "jupyter",
+            "label": "jupyter: open browser",
+            "isBackground": false,
+            "type": "shell",
+            "args": [
+                "notebook"
+            ],
+            "options": {
+                "cwd": "${workspaceRoot}"
+            },
+            "problemMatcher": []
+        }
     ]
 }
