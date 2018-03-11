@@ -6,5 +6,6 @@
         "MD036": false, //emphasis used instead of header
         "MD041": false //first line in file should be a top-level header
     },
-    "python.pythonPath": "/usr/bin/python3.6"
+    "python.pythonPath": "/usr/bin/python3.6",
+    "python.formatting.provider": "yapf"
 }
