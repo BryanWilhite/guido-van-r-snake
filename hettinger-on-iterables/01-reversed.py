@@ -11,10 +11,19 @@ for i in range(len(colors) - 1, -1, -1):
     print(colors[i])
 
 """
-    Or we can just use `reversed`:
+    Or we can just use the `reversed` function:
 """
 
 print('\ncool Python style:')
 
 for color in reversed(colors):
     print(color)
+
+
+"""
+    LINQ of the .NET Framework:
+
+    `IEnumerable.Reverse()`
+
+    is the equivalent of `reversed()` in Python.
+"""
