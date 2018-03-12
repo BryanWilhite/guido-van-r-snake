@@ -22,6 +22,10 @@ which python3.6
 python3.6 --version
 ```
 
+## setup (VSCode)
+
+Visual Studio Code prompted me about which Python formatter I should use. It came down to `autopep8` vs `yapf`. I chose [YAPF](https://github.com/google/yapf) based on their README. I also went with `pylint` [[manual](https://pylint.readthedocs.io/en/latest/)] encouraged by VSCode defaults.
+
 ## related links
 
 * “[Guido van Rossum: The Modern Era of Python](https://www.youtube.com/watch?time_continue=1&v=rTTFh7HOlC0)”
