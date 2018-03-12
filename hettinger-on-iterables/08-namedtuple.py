@@ -1,5 +1,5 @@
 """
-    Raymond Hettinger introduces the `namedtuple` in the context
+    Raymond Hettinger introduces the `namedtuple()` factory function in the context
     of `doctest` where the output of `doctest.testmod()` is a named tuple:
 """
 
