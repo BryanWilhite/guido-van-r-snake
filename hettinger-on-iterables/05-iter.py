@@ -1,6 +1,6 @@
 """
     Raymond Hettinger wants to tell us that Python has `iter`
-    to remedy the traditional approach to the sentinel-value pattern.
+    to remedy the traditional approach to the sentinel-value (or control-break) pattern.
 
     Before he can do that he has to show us crappy way it was done in, say, C++.
 
