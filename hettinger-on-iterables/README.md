@@ -10,3 +10,8 @@
 * the `iter` [function](https://docs.python.org/3/library/functions.html#iter)
 * the `TextIOBase` [class](https://docs.python.org/3/library/io.html#io.TextIOBase) (the base class of `TextIOWrapper`?)
 * “[How Iterables actually work in Python](https://hackernoon.com/how-iterables-actually-work-in-python-65c36ff91c1e)”
+* “[Argparse Tutorial](https://docs.python.org/3/howto/argparse.html)”
+* “[8.3. collections — Container datatypes](https://docs.python.org/3/library/collections.html)”
+* “[26.3. doctest — Test interactive Python examples](https://docs.python.org/3.5/library/doctest.html)”
+* “[HOWTO Fetch Internet Resources Using The urllib Package](https://docs.python.org/3/howto/urllib2.html)”
+* `lru_cache` [decorator](https://docs.python.org/3/library/functools.html#functools.lru_cache)
