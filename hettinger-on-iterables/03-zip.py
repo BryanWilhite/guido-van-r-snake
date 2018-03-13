@@ -26,7 +26,7 @@ for name, color in zip(names, colors):
 
     `IEnumerable<string>.Zip(IEnumerable<string>, (name, color) => $"{name} --> {color}")`
 
-    is the equivalent of the use of `zip()` above in Python.
+    is the equivalent of the use of `zip(<iterable>)` above in Python.
 
     Raymond Hettinger says that `zip` goes back 50 years to the original paper on Lisp.
 
