@@ -1,6 +1,9 @@
+argparse
+autopep8
 chocolatey
 cpus
 deque
+doctest
 epub
 functools
 guido
@@ -13,11 +16,14 @@ mathematica
 namespaces
 nobreak
 numpy
+pylint
 pyplot
 qsort
 rasx
 repo
 rossum
 songhay
+urllib
 xhtml
 xrange
+yapf
