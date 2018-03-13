@@ -35,5 +35,5 @@ for name, color in zip(names, colors):
 
     It follows that Raymond Hettinger recommends the use of `izip`.
 
-    However, the efficiecy of `izip` is in the `zip` function of Python 3.x.
+    However, the efficiency of `izip` is in the `zip` function of Python 3.x.
 """

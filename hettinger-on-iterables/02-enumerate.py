@@ -24,5 +24,5 @@ for i, color in enumerate(colors):
 
     `IEnumerable<string>.Select((color, i) => $"{i} --> {color}")`
 
-    is the equivalent of the use of `enumerate()` above in Python.
+    is the equivalent of the use of `enumerate(<iterable>)` above in Python.
 """

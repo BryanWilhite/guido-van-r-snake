@@ -43,5 +43,5 @@ print(sorted(colors, key=len))
 
     `IEnumerable<string>.OrderBy(color => color.Length)`
 
-    is the equivalent to the use of `sorted()` here in Python.
+    is the equivalent to the use of `sorted(<iterable>)` here in Python.
 """

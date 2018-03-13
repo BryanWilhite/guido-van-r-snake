@@ -25,5 +25,5 @@ for color in reversed(colors):
 
     `IEnumerable.Reverse()`
 
-    is the equivalent of `reversed()` in Python.
+    is the equivalent of `reversed(<iterable>)` in Python.
 """
