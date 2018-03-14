@@ -3,7 +3,7 @@
     and he starts his Python classes with three days of work on dictionary relationships,
     counting, grouping and linking.
 
-    The key-value relationship in a dictionary has been expressed in two ways.
+    The key-value relationship in a dictionary has been expressed in two ways:
 """
 
 d = {'matthew': 'blue', 'rachel': 'green', 'raymond': 'red'}
@@ -54,6 +54,7 @@ print(dict(zip(names, colors)))
 
 """
     Raymond Hettinger shows us two ways to count with a dictionary.
+
     First, we see the beginners way:
 """
 
@@ -140,7 +141,7 @@ print(d)
 """
     Finally, we see that the linking dictionaries was traditionally
     involved with command-line argument parsing with `argparse`:
-"""
+mm"""
 
 import argparse
 import os

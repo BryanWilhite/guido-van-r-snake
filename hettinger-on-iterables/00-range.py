@@ -13,7 +13,7 @@ for i in [0, 1, 2, 3, 4, 6, 7, 8, 9]:
 
 """
     The `range` function was first developed to replicate the list above
-    ---including the memory allocation.
+    —including the memory allocation.
 
     Then in order to save memory `xrange` was developed.
 
@@ -52,5 +52,5 @@ for color in colors:
 
     `Enumerable.Range()`
 
-    is the equivalent of `range()` in Python.
+    is the equivalent of `range(<iterable>)` in Python.
 """
