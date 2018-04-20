@@ -3,7 +3,6 @@
     "cSpell.words": [
         "argparse",
         "autopep8",
-        "chocolatey",
         "cpus",
         "deque",
         "doctest",
@@ -22,12 +21,8 @@
         "pylint",
         "pyplot",
         "qsort",
-        "rasx",
-        "repo",
         "rossum",
-        "songhay",
         "urllib",
-        "xhtml",
         "xrange",
         "yapf"
     ],
