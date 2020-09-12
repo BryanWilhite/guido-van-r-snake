@@ -33,5 +33,6 @@
         "MD036": false, //emphasis used instead of header
         "MD041": false //first line in file should be a top-level header
     },
-    "python.formatting.provider": "yapf"
+    "python.formatting.provider": "yapf",
+    "python.pythonPath": "/bin/python3"
 }
