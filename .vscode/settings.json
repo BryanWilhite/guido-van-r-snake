@@ -34,5 +34,5 @@
         "MD041": false //first line in file should be a top-level header
     },
     "python.formatting.provider": "yapf",
-    "python.pythonPath": "/bin/python3"
+    "python.pythonPath": "/home/rasx/anaconda3/bin/python"
 }
